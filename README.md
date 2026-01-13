@@ -1,4 +1,4 @@
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mwo_VEygStPw2yjnq87YEIjyxOjthsGl#scrollTo=LWtQkS-LeNTq)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]([WtQkS-LeNTq](https://colab.research.google.com/drive/1mwo_VEygStPw2yjnq87YEIjyxOjthsGl#scrollTo=LWtQkS-LeNTq))
 
 # full\_waveform\_lidar\_training
 
